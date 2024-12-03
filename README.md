@@ -11,7 +11,8 @@ This is an advanced chess game built using Python and the Tkinter library for th
 
 ## Screenshot
 <div align="center">
-![Chess Game Screenshot](Screenshot%202024-12-03%20181326.jpg)
+  <img src="Screenshot%202024-12-03%20181326.jpg" alt="task Manager Python Screenshot">
+
 </div>
 ## Requirements
 
