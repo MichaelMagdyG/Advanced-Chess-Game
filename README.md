@@ -10,9 +10,9 @@ This is an advanced chess game built using Python and the Tkinter library for th
 - **Chessboard Setup**: The board is automatically set up in the initial configuration, with White and Black pieces in their starting positions.
 
 ## Screenshot
-
+<div align="center">
 ![Chess Game Screenshot](Screenshot%202024-12-03%20181326.jpg)
-
+</div>
 ## Requirements
 
 - Python 3.x
